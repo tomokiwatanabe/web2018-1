@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	color: white;
+	background-color: red;
+	border-style: inset;
+	border-color: turquoise;
+	border-width: 20pt;
+	padding: 20pt;
+	font-size: 400%;
+}
+
+h2 {
+	color: white;
+	background-color: blue;	
+	font-size: 200%;
+}
+
+h3 {
+	color: red;
+	background-color: yellow;
+	font-size: 200%;
+}
+
+li.index {
+	color: red;
+	font-style: italic;
+}
